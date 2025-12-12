@@ -15,5 +15,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-  base: '/anur-static-pages-deploy/',
+  base: '/anur-static-pages-deploy',
 })
